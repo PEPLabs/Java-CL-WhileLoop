@@ -6,7 +6,7 @@ public class Lab {
      *
      * Usually while loops are used for I/O, like waiting for input from the user or waiting for data from the web,
      * which are situations where the code has no capability of knowing how many times it should do something
-     * (like how many times the program should it should check if it's received user input yet).
+     * (like how many times the program should check if it's received user input yet).
      *
      * For this example, let's use a while loop to get the sum of all numbers between 0 and end (exclusive).
      * At the 'code here' point, let's write a while loop that runs on the condition
